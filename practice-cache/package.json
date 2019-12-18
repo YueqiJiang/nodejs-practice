@@ -1,0 +1,25 @@
+{
+  "name": "cacheapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "nodemon":"^2.0.2",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cache": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YueqiJiang/nodejs-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YueqiJiang/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/YueqiJiang/nodejs-practice#readme"
+}
